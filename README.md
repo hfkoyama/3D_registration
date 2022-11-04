@@ -1,8 +1,8 @@
 # 3D_registration
 ImageJ-based tool for 3D image registration
 
-Reference
-An ImageJ-based tool for three-dimensional registration between different types of microscopic images
+Reference:\n
+An ImageJ-based tool for three-dimensional registration between different types of microscopic images\n
 Koyama et al.
 
 Contents
